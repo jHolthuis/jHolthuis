@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jHolthuis
-- 👀 I’m interested in tech, rugby, reading and chess.
-- 🌱 I’m currently learning java 
+- 👀 I’m interested in tech, rugby and reading.
+- 🌱 I’m currently learning php
 - 💞️ I’m looking to collaborate on educational projects.
 - 📫 How to reach me: www.linkedin.com/in/jauke-holthuis-3142b2a5
 
