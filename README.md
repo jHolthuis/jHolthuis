@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jHolthuis
+- 👋 Hi, I’m Jauke Holthuis
 - 👀 I’m interested in tech, rugby, cooking and reading.
 - 🌱 I’m currently learning php, laravel and tailwindcss.
 - 💞️ I’m looking to collaborate on educational projects.
